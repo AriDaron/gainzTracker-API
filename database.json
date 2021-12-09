@@ -41,6 +41,24 @@
       "description": "For dinner I had 3 oz of lasagna and a side salad",
       "calories": "200",
       "id": 3
+    },
+    {
+      "date": false,
+      "description": "For breakfast I had 2 sausage biscuit sandwiches ",
+      "calories": "300",
+      "id": 4
+    },
+    {
+      "date": false,
+      "description": "for breakfast i had eggs",
+      "calories": "200",
+      "id": 5
+    },
+    {
+      "date": "2021-12-09",
+      "description": "for lunch I had spaghetti ",
+      "calories": "450",
+      "id": 6
     }
   ],
   "workoutEntries": [
@@ -55,6 +73,18 @@
       "date": "12/6/2021",
       "description": "ran on the treadmill 10 min. back and biceps 3 sets of 10 . core workouts 15 min",
       "timeSpent": 60
+    },
+    {
+      "date": "2021-12-08",
+      "description": "Today was a rest day ",
+      "calories": "0",
+      "id": 3
+    },
+    {
+      "date": "2021-12-08",
+      "description": "I changed my mind and decided to go for jog. ",
+      "timeSpent": "45",
+      "id": 4
     }
   ],
   "diaryEntries": [
@@ -67,6 +97,18 @@
       "id": 2,
       "description": "I may have gone a little too heavy on squats today, tomorrow I'll go lighter and focus on my form",
       "photoURL": ""
+    },
+    {
+      "date": "2021-12-09",
+      "description": "My back muscles have been feeling a bit tight since Monday. I set an appointment for a massage today hopefully that helps. Other than that I feel the strongest I've ever been! :) ",
+      "photoURL": "NA",
+      "id": 3
+    },
+    {
+      "date": 0,
+      "description": "",
+      "photoURL": 0,
+      "id": 4
     }
   ],
   "dailyTracker": [
